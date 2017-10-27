@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ForDormitory:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ForDormitory_jar</output-path>
+    <root id="archive" name="ForDormitory.jar">
+      <element id="module-output" name="ForDormitory" />
+    </root>
+  </artifact>
+</component>
